@@ -1,0 +1,16 @@
+.nav {
+
+    flex-direction: row;
+
+}
+.panel {
+    margin-left: 50px;
+    padding-left: 50px;
+}
+
+.container{
+    background-color: aqua;
+}
+.page-footer{
+    background-color: blue;
+}
